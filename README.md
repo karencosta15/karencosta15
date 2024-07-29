@@ -1,16 +1,18 @@
-## Hi there 👋
+## bem vindos ao meu perfil ❤️
 
-<!--
-**karencosta15/karencosta15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e karen maressa
 
-Here are some ideas to get you started:
+estou estudando alura na dinah motta runha
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+estou me desenvolvendo na linguagem javascript
+
+utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+###voce pode entrar em contato comigo📫
+
+karenmaressa39gmail.com
+
+00001120276299sp@al.educacao.sp.gov.br 
+![](https://media1.tenor.com/m/HJ8Nxo6FkI0AAAAC/broncos-hello.gif)
+
+https://media1.tenor.com/m/HJ8Nxo6FkI0AAAAC/broncos-hello.gif
